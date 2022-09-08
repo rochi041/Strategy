@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "bc9ffdf8-df4c-e58d-ae5d-50db4c68da1a": {
+      "ProjectGuid": "bc9ffdf8-df4c-e58d-ae5d-50db4c68da1a",
+      "DisplayName": "Core",
+      "ColorIndex": 0
+    },
+    "08bed58b-9968-6ec3-68f0-315684da3b26": {
+      "ProjectGuid": "08bed58b-9968-6ec3-68f0-315684da3b26",
+      "DisplayName": "UserControlSystem",
+      "ColorIndex": 1
+    },
+    "01a5a2d0-f267-11ee-7c68-1aa5c800b492": {
+      "ProjectGuid": "01a5a2d0-f267-11ee-7c68-1aa5c800b492",
+      "DisplayName": "Abstractions",
+      "ColorIndex": 2
+    },
+    "c0009024-8275-9e1b-4a15-a9f8f83cf963": {
+      "ProjectGuid": "c0009024-8275-9e1b-4a15-a9f8f83cf963",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 3
+    },
+    "b5eafdd7-ef08-292b-bf8b-85476563a8b1": {
+      "ProjectGuid": "b5eafdd7-ef08-292b-bf8b-85476563a8b1",
+      "DisplayName": "UIPresenter",
+      "ColorIndex": 4
+    },
+    "9584dd07-6c52-2481-9788-847a8113bdb3": {
+      "ProjectGuid": "9584dd07-6c52-2481-9788-847a8113bdb3",
+      "DisplayName": "UIModel",
+      "ColorIndex": 5
+    },
+    "dcdc1f19-b53f-54f3-6bd3-0dcfe1aff2d1": {
+      "ProjectGuid": "dcdc1f19-b53f-54f3-6bd3-0dcfe1aff2d1",
+      "DisplayName": "UIView",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
